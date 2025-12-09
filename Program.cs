@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-//Задание 13 Поиск минимального значения LINQ
+//Задание 13 Поиск минимального значения
 
 class Program
 {
